@@ -1,6 +1,6 @@
 /* WRITE A SIMPLE JAVA PROGRAM TO DISPLAY MESSAGE. */
 
-class U1P1
+class prog1
 {
 	public static void main(String args[])
 	{
